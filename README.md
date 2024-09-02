@@ -25,9 +25,9 @@ Este repositório contém uma coleção de scripts desenvolvidos em Node.js como
 node -v
 
 
-Instalação
+## Instalação
 Clone este repositório localmente usando: git clone https://github.com/eduadg/EstagioSP.git
 
-Execução dos Scripts
+## Execução dos Scripts
 Para executar qualquer um dos scripts, navegue até o diretório do repositório clonado e execute: node nome_do_script.js
 por exemplo: node Desafio1.js
